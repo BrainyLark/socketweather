@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+
+<ScrollPane maxHeight="200.0" maxWidth="450.0" minHeight="200.0" minWidth="450.0" prefHeight="200.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="socketapp.view.ServerController">
+   <content>
+      <TextArea fx:id="ta" maxHeight="200.0" maxWidth="300.0" minHeight="200.0" minWidth="300.0" prefHeight="200.0" prefWidth="300.0" />
+   </content>
+</ScrollPane>
